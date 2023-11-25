@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-Hey Will change everything
-=======
 Hey Will change everything Soon
 using checkout for making new branch
 adding again for merging both branch
+<<<<<<< Updated upstream
 >>>>>>> feature-branch
 
 
@@ -14,6 +12,7 @@ Here checking for get stash and then revert
 start add here lets see cange some content to check whether pull origin master work here or not .
 ceh
 =======
+<<<<<<< Updated upstream
 start with stash
 >>>>>>> parent of 360f276 (Committing changes before applying stash)
 =======
@@ -22,3 +21,7 @@ start with stash
 =======
 Here checking for get stash and then revert
 >>>>>>> parent of 7e327ad (check stash here)
+=======
+ 
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
