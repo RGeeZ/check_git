@@ -7,6 +7,7 @@ adding again for merging both branch
 >>>>>>> feature-branch
 
 
+<<<<<<< HEAD
 Here checking for get stash and then revert
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -18,3 +19,6 @@ start with stash
 =======
 start with stash
 >>>>>>> parent of 360f276 (Committing changes before applying stash)
+=======
+Here checking for get stash and then revert
+>>>>>>> parent of 7e327ad (check stash here)
