@@ -11,6 +11,7 @@ Here checking for get stash and then revert
 <<<<<<< HEAD
 start add here lets see cange some content to check whether pull origin master work here or not .
 ceh
+<<<<<<< HEAD
 =======
 <<<<<<< Updated upstream
 start with stash
@@ -25,3 +26,6 @@ Here checking for get stash and then revert
  
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
+=======
+check
+>>>>>>> 3e063a6
